@@ -6,6 +6,9 @@ Shuni aytib o'tishim kerakki, ushbu shablon responsive emas va ba'zi kamchilikla
 Lekin shunga men ushbu ishimdan xursandman ushbu shablonning source codelarini githubdagi accountimdan yoki Portfolio Telegram kanalimdan olishingiz mumkin.
 Izoh: Agar siz ushbu shablonning previewsini ko'rmoqchi bo'lsangiz uning source codelarini yuklab oling va bu yerdagi fayllardan index.htmlni oching.
 
+Barcha fayllar siz kodlarni yuklab olganingizdan keyin template1.tar.xz2 arxivida bo'ladi.
+Live Preview: template1.lark.ru
+
 ==================================================
 
 Repository Settings:
